@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kott29
 - 👀 I am interested in java development
-- 🌱 I am currently learning on Skilbox
+- 🌱 I am currently learning from my mistakes 
 - 📫 I can be contacted via email:  kotenkovsemen2@outlook.com
 
 <!---
